@@ -1,9 +1,9 @@
-# react-carabiner
+# react-carabiner 🧗‍
 
 [![npm](https://img.shields.io/npm/v/react-carabiner.svg)](https://www.npmjs.com/package/react-carabiner)
 [![npm](https://img.shields.io/npm/dt/react-carabiner.svg)](https://www.npmjs.com/package/react-carabiner)
 
-A React Hook to copy (read to and write from) to the clipboard.
+A React Hook to copy to the clipboard.
 
 ## Install
 
