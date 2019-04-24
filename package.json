@@ -1,4 +1,18 @@
 {
   "name": "react-carabiner",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "A React Hook for copying to the clipboard",
+  "license": "MIT",
+  "repository": "zroyer/react-carabiner",
+  "main": "dist/index.js",
+  "keywords": [
+    "react",
+    "hooks",
+    "npm",
+    "package",
+    "zroyer"
+  ],
+  "dependencies": {
+    "react": "^16.8.6"
+  }
 }

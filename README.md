@@ -8,5 +8,5 @@ A React Hook to copy to the clipboard.
 ## Install
 
 ```
-$ npm install react-carabiner
+$ npm i react-carabiner
 ```
