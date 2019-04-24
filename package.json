@@ -1,10 +1,14 @@
 {
   "name": "react-carabiner",
   "version": "1.0.0",
-  "description": "A React Hook for copying to the clipboard",
+  "author": "@zroyer",
+  "description": "A React Hook to copy to the clipboard",
   "license": "MIT",
   "repository": "zroyer/react-carabiner",
   "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && babel src --out-dir dist"
+  },
   "keywords": [
     "react",
     "hooks",
@@ -12,7 +16,13 @@
     "package",
     "zroyer"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
   }
 }
