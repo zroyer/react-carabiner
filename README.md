@@ -3,6 +3,8 @@
 [![npm](https://img.shields.io/npm/v/react-carabiner.svg)](https://www.npmjs.com/package/react-carabiner)
 [![npm bundle size](https://img.shields.io/bundlephobia/min/react-carabiner.svg)](https://www.npmjs.com/package/react-carabiner)
 [![npm](https://img.shields.io/npm/dt/react-carabiner.svg)](https://www.npmjs.com/package/react-carabiner)
+[![GitHub](https://img.shields.io/github/license/zroyer/react-carabiner.svg)](https://github.com/zroyer/react-carabiner/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/zroyer/react-carabiner/pulls)
 
 A [React Hook](https://reactjs.org/docs/hooks-intro.html) to copy to the clipboard.
 
@@ -12,7 +14,7 @@ A [React Hook](https://reactjs.org/docs/hooks-intro.html) to copy to the clipboa
 $ npm i react-carabiner
 ```
 
-## Use
+## Usage
 
 The `useCarabiner` hook returns a tuple with two values:
 - The state variable

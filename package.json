@@ -12,9 +12,11 @@
   "keywords": [
     "react",
     "hooks",
-    "npm",
-    "package",
-    "zroyer"
+    "copy",
+    "clipboard",
+    "carabiner",
+    "react-carabiner",
+    "npm"
   ],
   "peerDependencies": {
     "react": "^16.8.6"
