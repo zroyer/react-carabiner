@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/github/license/zroyer/react-carabiner.svg)](https://github.com/zroyer/react-carabiner/blob/master/LICENSE)
 [![GitHub](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/zroyer/react-carabiner/pulls)
 
-A [React Hook](https://reactjs.org/docs/hooks-intro.html) to copy to the clipboard!  
+A [React Hook](https://reactjs.org/docs/hooks-intro.html) to copy to the clipboard.
 Try it out at the [Climbing Wall](https://climbing-wall.netlify.com/)!
 
 ## Install
