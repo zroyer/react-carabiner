@@ -9,7 +9,7 @@
 A [React Hook](https://reactjs.org/docs/hooks-intro.html) to copy to the clipboard.
 Try it out at the [Climbing Wall](https://climbing-wall.netlify.com/)!
 
-## Install
+## Installation
 
 ```
 $ npm i react-carabiner
