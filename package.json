@@ -1,6 +1,6 @@
 {
   "name": "@zroyer/react-carabiner",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "author": "@zroyer",
   "description": "A React Hook to copy to the clipboard",
   "license": "MIT",

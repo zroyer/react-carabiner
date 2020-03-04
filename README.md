@@ -12,7 +12,7 @@ Try it out at the [Climbing Wall](https://climbing-wall.netlify.com/)!
 ## Installation
 
 ```
-$ npm i react-carabiner
+$ npm install react-carabiner
 ```
 
 ## Usage
