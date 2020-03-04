@@ -1,11 +1,14 @@
 {
-  "name": "react-carabiner",
-  "version": "1.2.0",
+  "name": "@zroyer/react-carabiner",
+  "version": "1.2.1",
   "author": "@zroyer",
   "description": "A React Hook to copy to the clipboard",
   "license": "MIT",
   "repository": "zroyer/react-carabiner",
   "main": "dist/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "build": "rm -rf dist && babel src --out-dir dist"
   },
